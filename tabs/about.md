@@ -5,7 +5,7 @@ title: About Me
 
 Hey there! my name is Sanyam Jamwal and this is my website,
 I am a 14 year old kid who is still getting into CyberSecurity,
-I post personal blogs and maybe even writeups for machines from <a href="https://hackthebox.eu" target="_blank">hackthebox</a>,<a href="https://www.vulnhub.com" target="_blank"> vulnhub</a> and <a href="www.tryhackme.com" target="_blank">TryHackMe</a>,
+I post personal blogs and maybe even writeups for machines from <a href="https://hackthebox.eu" target="_blank">hackthebox</a>,<a href="https://www.vulnhub.com" target="_blank"> vulnhub</a> and <a href="https://tryhackme.com" target="_blank">TryHackMe</a>,
 I learn more and more each day and i hope to become the best out there. :D 
 
 
