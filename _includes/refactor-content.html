@@ -1,0 +1,13 @@
+{% assign _content = include.content %}
+{% if _content contains '<table>' %}
+  {% assign _content = _content | replace: '<table>', '<div class="table-wrapper"><table>' %}
+  {% assign _content = _content | replace: '</table>', '</table></div>' %}
+  {% assign _content = _content | replace: '</table></div></code>', '</table></code>' %}
+{% endif %}
+
+{% if _content contains '<pre class="highlight">' %}
+  {% assign _content = _content | replace: '<div class="highlight"><pre class="highlight"><code', '<div class="highlight"><code' %}
+  {% assign _content = _content | replace: '</code></pre></div>', '</code></div>' %}
+{% endif %}
+
+{{ _content }}
