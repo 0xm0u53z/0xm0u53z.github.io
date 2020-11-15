@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /norobots/
+Disallow: /Files/
+
+Sitemap: https://0xm0u53z.github.io/sitemap.xml
