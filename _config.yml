@@ -29,7 +29,7 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/sanyam-jamwal/
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: <meta name="google-site-verification" content="FvM2VhibJf_DI7239XrxUWtXs_bzvYAvlLvDWaCeEEY" /> # change to your verification string
 
 #--------------------------
 
@@ -42,7 +42,7 @@ baseurl: ''
 timezone: Asia/Kolkata
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id: 'G-6JHXYLW3T4'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
@@ -53,7 +53,7 @@ google_analytics:
     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
+  comments: true  # boolean type, the global switch for posts comments.
   shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
