@@ -7,5 +7,6 @@ User-agent: *
 
 Disallow: /norobots/
 Disallow: /Files/
+Disallow: /assets/
 
 Sitemap: {{ site.url | append: site.baseurl }}/sitemap.xml

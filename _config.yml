@@ -2,22 +2,18 @@
 
 title: m0u53z                  # the main title
 
-tagline: 14 | Pursuing Cybersecurity   # it will display as the sub-title
+tagline: 14 | eJPT | Pursuing Cybersecurity   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
-
+description: m0u53z's webiste                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://0xm0u53z.github.io'
+url: 'https://m0u53z.github.io'
 
 author: Sanyam Jamwal                   # change to your full name
 
 avatar: /assets/img/main/avatar.png     # support internet resources
 
 github:
-  username: 0xm0u53z                    # change to your github username
+  username: m0u53z                    # change to your github username
 
 twitter:
   username:                             # change to your twitter username
