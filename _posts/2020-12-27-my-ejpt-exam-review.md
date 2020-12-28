@@ -43,7 +43,7 @@ Now after ive given the exam, I can say that <a href="https://ine.com/">INE</a> 
 Just Practicing on the Labs should be enough for the Exam.<br>
 But I didn't know this back then, and I was feeling a bit nervous <br>
 Some people might say that I went a bit OverKill but nevertheless,<br>
-I Purchased the <a href="https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course">Practical Ethical Hacking</a> by <a href="https://tcm-sec.com/">TCM</a> <br>
+I Purchased the <a href="https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course">Practical Ethical Hacking</a> course by <a href="https://tcm-sec.com/">TCM</a> <br>
 
 ### Practical Ethical Hacking
 So Firstly, I would like to say that this course teaches you WAY more than the <a href="https://ine.com/">INE</a> course.<br>
