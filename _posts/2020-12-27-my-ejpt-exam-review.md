@@ -22,7 +22,7 @@ So <a href="https://www.offensive-security.com/pwk-oscp/">OSCP</a> was canceled 
 As soon as i got the mail from OffSec saying NO for the <a href="https://www.offensive-security.com/pwk-oscp/">Pwk</a> course<br>
 I started looking for alternatives, Looked at a lot of things like <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/">CEH</a>, <a href="https://www.comptia.org/certifications/pentest">PENTEST+</a>, <a href="https://www.comptia.org/certifications/a">A+</a> etc..<br>
 But all of these exams were mcq/theory based, I woudn't be able to get any practical experience in these exams.<br>
-So one day, while i was reading blogs, I found this one guy that posted about his <a href="https://elearnsecurity.com/product/ecpptv2-certification/">eCCPT</a> Exam,<br>
+So one day, while i was reading blogs, I found this one guy that posted about his <a href="https://elearnsecurity.com/product/ecpptv2-certification/">eCPPT</a> Exam,<br>
 I looked it up and realised that there is a whole another world out there.<br>
 I was a bit skeptical at first because I had never heard the name <a href="https://elearnsecurity.com/">eLearnSecurity</a> before. But-<br>
 After going through some more blogs and reading reviews, I came to the conclusion that I would give the <a href="https://elearnsecurity.com/product/ejpt-certification/">eJPT</a> Exam.<br><br>
